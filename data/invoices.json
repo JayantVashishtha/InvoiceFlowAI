@@ -1,0 +1,19 @@
+[
+  {
+    "invoice_id": "INV-2024-100",
+    "vendor": "XYZ Solutions",
+    "date": "2024-07-01",
+    "items": [
+      {"desc": "Software Dev", "amount": 20000, "tds": 2000}
+    ]
+  },
+  {
+    "invoice_id": "INV-2024-123",
+    "vendor": "ABC Pvt Ltd",
+    "date": "2024-07-10",
+    "items": [
+      {"desc": "Consulting", "amount": 10000, "tds": 1000},
+      {"desc": "Hosting", "amount": 5000, "tds": 250}
+    ]
+  }
+]
