@@ -16,7 +16,7 @@ Built with ❤️ using Python, Together AI, and rule-based matching.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/Demo_PayableGPT.git
+git clone https://github.com/JayantVashishtha/Demo_PayableGPT.git
 cd Demo_PayableGPT_Dice
 ```
 
