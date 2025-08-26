@@ -1,4 +1,4 @@
-# 🧾 Demo_PayableGPT — LLM + Rule-based TDS Categorization System
+# 🧾 InvoiceFlowAI — LLM + Rule-based TDS Categorization System
 
 This project is an AI-powered invoice processing pipeline that:
 - Extracts data from invoices
@@ -16,8 +16,8 @@ Built with ❤️ using Python, Together AI, and rule-based matching.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/JayantVashishtha/Demo_PayableGPT.git
-cd Demo_PayableGPT_Dice
+git clone https://github.com/JayantVashishtha/InvoiceFlowAI.git
+cd InvoiceFlowAI
 ```
 
 ### 2. Create a virtual environment
